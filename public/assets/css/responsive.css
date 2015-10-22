@@ -1,0 +1,32 @@
+/* Small devices (tablets, 768px and up) */
+/* Medium devices (desktops, 992px and up) */
+/* Large devices (large desktops, 1200px and up) */
+
+@media (max-width: 767px) {
+
+.for_logo div {padding-top:84px; width:40%;}
+
+  }
+
+
+@media (max-width: 500px) {
+body{font-size:13px;}
+.for_logo div {padding-top:62px; width:80%;}
+
+.head_subtitle{font-size:13px;width:100%;}
+.for_logo {height: 235px;margin-top:23px;}
+.promo_info { margin-top: 68px;}
+.promo_info p {font-size: 13px;margin-bottom:15px;}
+.promo .highlight { font-size: 18px;margin-bottom: 8px;}
+.docs .docs-inner {margin-bottom:16px;}
+.contact .social-icons a {height: 27px; margin-right: 2px;padding-top: 4px; width: 27px;}
+.section{padding-top:15px;padding-bottom:9px;}
+.title{font-size:18px;margin-bottom:15px !important;}
+.logo{display:none;}
+.navbar-fixed-top .logo{display:block;}
+  }
+}
+}
+}
+}
+
